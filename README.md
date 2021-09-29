@@ -25,4 +25,3 @@
     * Currently using the Letterboxd API
 
 * [aiosqlite](https://github.com/omnilib/aiosqlite) for storing boxd IDs
-    
